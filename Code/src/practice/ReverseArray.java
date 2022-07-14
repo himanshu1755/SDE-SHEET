@@ -2,7 +2,7 @@ package practice;
 
 public class ReverseArray {
 
-    static void rvereseArrayRecursion(int arr[], int start, int end) {
+    public static void rvereseArrayRecursion(int arr[], int start, int end) {
         int temp;
         if (start >= end)
             return;
