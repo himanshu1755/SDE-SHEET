@@ -4,7 +4,7 @@ package sheet.Day3;
 
 //https://leetcode.com/problems/majority-element/
 
-public class D2P3 {
+public class D3P3 {
     public int majorityElement(int[] nums) {
         int count =0,e =0;
 
