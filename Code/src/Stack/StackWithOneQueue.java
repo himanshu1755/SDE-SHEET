@@ -26,9 +26,10 @@ public class StackWithOneQueue {
         q = push(q, 3);
 
 //        System.out.println(q);
-        System.out.println(q.element());
+        System.out.println(q);
         q.remove();
-        System.out.println(q.element());
+        System.out.println(q);
+        System.out.println("top element is --- " + q.element());
 
 
     }
